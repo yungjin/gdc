@@ -8,7 +8,7 @@
 > * [서버프로그램 구현](https://github.com/yungjin/-/blob/master/%EC%B5%9C%EC%98%81%EC%A7%84.zip)
 > * [데이터 입출력 구현](https://github.com/yungjin/gdc/blob/master/%EC%9D%B4%EC%A7%80%ED%98%84%ED%8C%80.zip)
 > * [통합 구현](https://github.com/yungjin/gdc/blob/master/%EC%9D%B4%EC%A7%80%ED%98%84%ED%8C%80.zip)
-> * [제품소프트웨어 패키징](gudi.kr/gdc3/201901/20190111/test/최영진.zip)
+> * [제품소프트웨어 패키징](https://github.com/yungjin/-/blob/master/%EC%B5%9C%EC%98%81%EC%A7%84.zip)
 > * [정보시스템 이행]()
 > * [애플리케이션 테스트 수행]()
 > * [애플리케이션 테스트 관리]()
