@@ -10,7 +10,7 @@
 > * [통합 구현](https://github.com/yungjin/gdc/blob/master/%EC%9D%B4%EC%A7%80%ED%98%84%ED%8C%80.zip)
 > * [제품소프트웨어 패키징](https://github.com/yungjin/-/blob/master/%EC%B5%9C%EC%98%81%EC%A7%84.zip)
 > * [정보시스템 이행](http://gudi.kr/gdc3/201901/20190122/%ec%b5%9c%ec%98%81%ec%a7%84.zip)
-> * [애플리케이션 테스트 수행](http://gudi.kr/gdc3/201901/20190129/%ec%b5%9c%ec%98%81%ec%a7%84.zip)
+> * [애플리케이션 테스트 수행](https://github.com/yungjin/gdc/blob/master/%EC%B5%9C%EC%98%81%EC%A7%84%20(2).zip)
 > * [애플리케이션 테스트 관리](https://github.com/yungjin/gdc/blob/master/%EC%B5%9C%EC%98%81%EC%A7%84%20(1).zip)
 > * [애플리케이션 배포](http://gudi.kr/gdc3/201902/20190220/%EC%B5%9C%EC%98%81%EC%A7%84/)
 > * [프로젝트](https://github.com/yungjin/gdc/blob/master/%EC%B5%9C%EC%98%81%EC%A7%84.zip)
